@@ -18,6 +18,7 @@
 
 # misc
 /client/.DS_Store
+.DS_Store
 /client/*.pem
 
 # debug
